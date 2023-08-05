@@ -1,5 +1,5 @@
 ## Simple Application to implement dark/light theme in React Native
-![Screenshot](screenshot.png)
+![Screenshot](./assets/screenshot.png)
 
 
 ### 📘 Installation

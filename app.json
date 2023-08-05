@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-dark-light-theme",
-    "slug": "react-native-dark-light-theme",
+    "name": "Simple Light Dark Theme App",
+    "slug": "LightDarkThemeApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
